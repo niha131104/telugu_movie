@@ -1,4 +1,5 @@
-#🎬 Telugu Movie Recommendation System
+##🎬 Telugu Movie Recommendation System
+
 A Content-Based Movie Recommendation System built using Python, Scikit-learn, and Streamlit.
 
 This project recommends Telugu movies based on Genre, Overview, and Release Year using TF-IDF and Cosine Similarity.
